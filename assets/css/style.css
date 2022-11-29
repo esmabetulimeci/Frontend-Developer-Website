@@ -136,9 +136,15 @@ img {
 }
 
 .btn-brand:hover .btn-brand:focus {
-    background-color: var(--color-brand2);
+    background-color: var(--color-heading);
     color: var(--color-base);
     border-color: var(--color-brand2);
+}
+
+.btn-brand:hover{
+    background-color: var(--color-base);
+    color:white ;
+
 }
 
 .link-custom {
